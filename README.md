@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edvin Canastuj</h1>
 <h3 align="center">A passionate developer from Gutemala</h3>
 
-- 🌱 I’m currently learning **.Net, Django and PHP**
+- 🌱 I’m currently learning **.Net, Django, NODE.JS and React**
 
 - 📫 How to reach me **edvinjcv66@gmail.com**
 
